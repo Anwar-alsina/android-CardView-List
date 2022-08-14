@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-CardView-master.iml" filepath="$PROJECT_DIR$/android-CardView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardviewAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/CardviewAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CardviewAndroid.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardviewAndroid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CardviewAndroid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardviewAndroid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CardviewAndroid.test.iml" />
     </modules>
   </component>
 </project>
-
